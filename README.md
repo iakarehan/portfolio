@@ -20,9 +20,6 @@ To run the portfolio locally, follow these steps:
 2. 📂 Navigate to the project directory: `cd Responsive_Dashbord`
 3. 🌐 Open the `index.html` file in your preferred web browser.
 
-## 🚀 Deployment
-
-The portfolio is deployed on Netlify. Visit the live version [here](https://responsive-dashbord.netlify.app/). 🌟
 
 ## 🤝 Contributing
 
